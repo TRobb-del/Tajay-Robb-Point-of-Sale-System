@@ -49,9 +49,7 @@ This Python-based Point of Sale (POS) System simulates a small supermarket check
 3. Open a terminal/command prompt.
 4. Run the script:
 
-#Assumptions
-Assumptions and Limitations
-Assumptions:
+#Assumptions:
 1. The user will enter valid product names or serial numbers.
 2. All transactions occur in a single session as there is no data saved between runs.
 3. Prices are in Jamaican Dollars (JMD).
